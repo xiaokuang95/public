@@ -1,0 +1,611 @@
+--------- beginning of main
+01-12 10:23:43.693 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:23:43.694 E/WifiTrafficPoller( 1129):  packet count Tx=1085721 Rx=495538
+01-12 10:23:44.694 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:23:44.695 E/WifiTrafficPoller( 1129):  packet count Tx=1086971 Rx=496088
+01-12 10:23:44.782 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage3500
+01-12 10:23:44.782 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage4192
+01-12 10:23:44.784 E/BatteryService( 1129): set lcd info battery 101
+01-12 10:23:44.785 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage3500
+01-12 10:23:44.785 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage4192
+01-12 10:23:44.785 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage3500
+01-12 10:23:44.785 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage4192
+01-12 10:23:44.786 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage3500
+01-12 10:23:44.786 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage4192
+01-12 10:23:45.287 E/WifiConfigStore( 1129): updateConfiguration freq=2462 BSSID=08:10:7c:46:33:81 RSSI=-41 "ChinaNet-801"WPA_PSK
+01-12 10:23:45.452 E/WifiMonitor( 1129): handleEvent unknown: 14  CTRL-EVENT-SCAN-STARTED 
+01-12 10:23:45.696 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:23:45.697 E/WifiTrafficPoller( 1129):  packet count Tx=1088115 Rx=496583
+01-12 10:23:46.699 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:23:46.700 E/WifiTrafficPoller( 1129):  packet count Tx=1088679 Rx=496838
+01-12 10:23:47.702 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:23:47.704 E/WifiTrafficPoller( 1129):  packet count Tx=1089211 Rx=497122
+01-12 10:23:47.993 E/agps    (  335):  ERR: [WIFI2AGPS] sendto dest=[/data/agps_supl/wifi_2_agps] len=7952 reason=[No such file or directory]
+01-12 10:23:47.993 E/agps    (  335):  ERR: [WIFI2AGPS] external_snd_cmd safe_sendto failed
+01-12 10:23:48.078 E/WifiConfigStore( 1129): updateSavedNetworkHistory(): try "ChinaNet-801"WPA_PSK SSID="ChinaNet-801" ChinaNet-801 [WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS] ajst=0
+01-12 10:23:48.080 E/WifiConfigStore( 1129):         got known scan result 08:10:7c:46:33:81 key : "ChinaNet-801"WPA_PSK num: 1 rssi=-40 freq=2462
+01-12 10:23:48.095 E/WifiConfigStore( 1129):  writeKnownNetworkHistory() num networks:3 needWrite=false
+01-12 10:23:48.095 E/WifiStateMachine( 1129): mIsFullScanOngoing: true, mSendScanResultsBroadcast: false
+01-12 10:23:48.095 E/WifiStateMachine( 1129): mWifiOnScanCount: 168
+01-12 10:23:48.294 E/WifiConfigStore( 1129): updateConfiguration freq=2462 BSSID=08:10:7c:46:33:81 RSSI=-40 "ChinaNet-801"WPA_PSK
+01-12 10:23:48.704 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:23:48.705 E/WifiTrafficPoller( 1129):  packet count Tx=1090014 Rx=497503
+01-12 10:23:49.706 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:23:49.706 E/WifiTrafficPoller( 1129):  packet count Tx=1091463 Rx=498179
+01-12 10:23:50.164 E/Surface ( 1565): getSlotFromBufferLocked: unknown buffer: 0x7fabf900f0
+01-12 10:23:50.202 E/MultiWindowProxy( 2410): getServiceInstance failed!
+01-12 10:23:50.707 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:23:50.708 E/WifiTrafficPoller( 1129):  packet count Tx=1092651 Rx=498700
+01-12 10:23:51.307 E/WifiConfigStore( 1129): updateConfiguration freq=2462 BSSID=08:10:7c:46:33:81 RSSI=-40 "ChinaNet-801"WPA_PSK
+01-12 10:23:51.426 E/MAL-Daemon(  230):  (  rds_ru_3gpp_status_ind, 1479) [RDS-E][RU][EVENT_RU_DM_3GPP_STATUS_IND] Invalid u43gpp_status:0x6
+01-12 10:23:51.709 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:23:51.710 E/WifiTrafficPoller( 1129):  packet count Tx=1093873 Rx=499283
+01-12 10:23:51.787 E/MtkOmxVenc(  324): [0xf79877e8] bufk = 0
+01-12 10:23:51.801 E/MtkOmxVdecEx(  324): [0xf7995fa0] OmxVdecLogEnable = 1, bOmxVdecPerfLogEnable = 0
+01-12 10:23:51.802 E/MtkOmxVdecEx(  324): [0xf7995fa0] [MtkOmxVdec]VAL_CHIP_NAME_DENALI_2
+01-12 10:23:51.803 E/MtkOmxVdecEx(  324): [0xf7995fa0] MtkOmxVdec::ComponentInit (OMX.MTK.VIDEO.DECODER.AVC)
+01-12 10:23:51.824 E/ACodec  ( 2410): Unable to instantiate a encoder for type 'video/hevc' with err 0xfffffffe.
+01-12 10:23:51.824 E/ACodec  ( 2410): signalError(omxError 0xfffffffe, internalError -2)
+01-12 10:23:51.824 E/MediaCodec( 2410): Codec reported err 0xfffffffe, actionCode 0, while in state 1
+01-12 10:23:51.830 E/Linphone( 2410): Failed to create codec !
+01-12 10:23:51.838 E/MtkOmxVdecEx(  324): [0xf7995fa0] OmxVdecLogEnable = 1, bOmxVdecPerfLogEnable = 0
+01-12 10:23:51.838 E/MtkOmxVdecEx(  324): [0xf7995fa0] [MtkOmxVdec]VAL_CHIP_NAME_DENALI_2
+01-12 10:23:51.840 E/MtkOmxVdecEx(  324): [0xf7995fa0] MtkOmxVdec::ComponentInit (OMX.MTK.VIDEO.DECODER.HEVC)
+01-12 10:23:51.840 E/VDO_LOG (  324): u4StrideAlign 64, u4SliceHeightAlign 64 
+01-12 10:23:51.873 E/Linphone( 2410): [Android Audio Utils] Unknown device type for type ID 16
+01-12 10:23:52.480 E/WifiMonitor( 1129): handleEvent unknown: 14  CTRL-EVENT-SCAN-STARTED 
+01-12 10:23:52.683 E/Linphone( 2410): [Android Audio Utils] Unknown device type for type ID 16
+01-12 10:23:52.711 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:23:52.712 E/WifiTrafficPoller( 1129):  packet count Tx=1094974 Rx=499792
+01-12 10:23:53.214 E/Linphone( 2410): Couldn't compute automatic push notifications parameters on account [0x7fac274fb8] because account params do not have available push notifications
+01-12 10:23:53.433 E/Linphone( 2410): Failed to compute remote parameters because no op linked to session 0x7fabfeec28 has been found
+01-12 10:23:53.449 E/Linphone( 2410): Failed to compute remote parameters
+01-12 10:23:53.712 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:23:53.713 E/WifiTrafficPoller( 1129):  packet count Tx=1095481 Rx=500067
+01-12 10:23:53.968 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:23:53.982 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:23:53.997 E/AudioALSAPlaybackHandlerBase(  324): openPcmDriver(), pcm_start(0xf7941e70) fail due to cannot start channel: Broken pipe
+01-12 10:23:54.018 E/AudioFlinger(  324): getNextBuffer, get null buffer
+01-12 10:23:54.044 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:23:54.072 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:23:54.102 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:23:54.201 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:23:54.259 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:23:54.285 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:23:54.316 E/WifiConfigStore( 1129): updateConfiguration freq=2462 BSSID=08:10:7c:46:33:81 RSSI=-40 "ChinaNet-801"WPA_PSK
+01-12 10:23:54.341 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:23:54.380 E/AudioALSAPlaybackHandlerBase(  324): openPcmDriver(), pcm_start(0xf7941e70) fail due to cannot start channel: Broken pipe
+01-12 10:23:54.595 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:23:54.626 E/AudioALSAStreamOut(  324): -getPresentationPosition(), no playback handler, *frames = 6454784, return
+01-12 10:23:54.637 E/AudioALSAStreamOut(  324): -getPresentationPosition(), no playback handler, *frames = 6455040, return
+01-12 10:23:54.649 E/AudioALSAStreamOut(  324): -getPresentationPosition(), no playback handler, *frames = 6455296, return
+01-12 10:23:54.660 E/AudioALSAStreamOut(  324): -getPresentationPosition(), no playback handler, *frames = 6455552, return
+01-12 10:23:54.672 E/AudioALSAStreamOut(  324): -getPresentationPosition(), no playback handler, *frames = 6455808, return
+01-12 10:23:54.683 E/AudioALSAStreamOut(  324): -getPresentationPosition(), no playback handler, *frames = 6456064, return
+01-12 10:23:54.694 E/AudioALSAStreamOut(  324): -getPresentationPosition(), no playback handler, *frames = 6456320, return
+01-12 10:23:54.706 E/AudioALSAPlaybackHandlerBase(  324): openPcmDriver(), pcm_start(0xf79bbb70) fail due to cannot start channel: Broken pipe
+01-12 10:23:54.714 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:23:54.715 E/WifiTrafficPoller( 1129):  packet count Tx=1095970 Rx=500322
+01-12 10:23:54.772 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage3500
+01-12 10:23:54.772 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage4191
+01-12 10:23:54.775 E/BatteryService( 1129): set lcd info battery 101
+01-12 10:23:54.775 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage3500
+01-12 10:23:54.775 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage4191
+01-12 10:23:54.776 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage3500
+01-12 10:23:54.776 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage4191
+01-12 10:23:54.783 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage3500
+01-12 10:23:54.783 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage4191
+01-12 10:23:55.028 E/agps    (  335):  ERR: [WIFI2AGPS] sendto dest=[/data/agps_supl/wifi_2_agps] len=7952 reason=[No such file or directory]
+01-12 10:23:55.028 E/agps    (  335):  ERR: [WIFI2AGPS] external_snd_cmd safe_sendto failed
+01-12 10:23:55.154 E/WifiConfigStore( 1129): updateSavedNetworkHistory(): try "ChinaNet-801"WPA_PSK SSID="ChinaNet-801" ChinaNet-801 [WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS] ajst=0
+01-12 10:23:55.155 E/WifiConfigStore( 1129):         got known scan result 08:10:7c:46:33:81 key : "ChinaNet-801"WPA_PSK num: 1 rssi=-40 freq=2462
+01-12 10:23:55.166 E/WifiConfigStore( 1129):  writeKnownNetworkHistory() num networks:3 needWrite=false
+01-12 10:23:55.166 E/WifiStateMachine( 1129): mIsFullScanOngoing: true, mSendScanResultsBroadcast: false
+01-12 10:23:55.166 E/WifiStateMachine( 1129): mWifiOnScanCount: 169
+01-12 10:23:55.716 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:23:55.716 E/WifiTrafficPoller( 1129):  packet count Tx=1097075 Rx=500844
+01-12 10:23:56.571 E/AudioFlinger(  324): getNextBuffer, get null buffer
+01-12 10:23:56.716 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:23:56.717 E/WifiTrafficPoller( 1129):  packet count Tx=1098410 Rx=501436
+01-12 10:23:56.780 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:23:56.930 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:23:56.960 E/AudioALSAPlaybackHandlerBase(  324): openPcmDriver(), pcm_start(0xf79bbb70) fail due to cannot start channel: Broken pipe
+01-12 10:23:56.996 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:23:57.215 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:23:57.333 E/WifiConfigStore( 1129): updateConfiguration freq=2462 BSSID=08:10:7c:46:33:81 RSSI=-40 "ChinaNet-801"WPA_PSK
+01-12 10:23:57.382 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:23:57.406 E/AudioALSAPlaybackHandlerBase(  324): openPcmDriver(), pcm_start(0xf79bbb70) fail due to cannot start channel: Broken pipe
+01-12 10:23:57.442 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:23:57.455 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:23:57.469 E/AudioALSAStreamOut(  324): -getPresentationPosition(), no playback handler, *frames = 6572544, return
+01-12 10:23:57.481 E/AudioALSAStreamOut(  324): -getPresentationPosition(), no playback handler, *frames = 6572800, return
+01-12 10:23:57.492 E/AudioALSAPlaybackHandlerBase(  324): openPcmDriver(), pcm_start(0xf79bbb70) fail due to cannot start channel: Broken pipe
+01-12 10:23:57.557 E/AudioALSAPlaybackHandlerBase(  324): openPcmDriver(), pcm_start(0xf7ae6800) fail due to cannot start channel: Broken pipe
+01-12 10:23:57.560 E/AudioALSAPlaybackHandlerBase(  324): -getHardwareBufferInfo pcm_get_htimestamp fail, ret = -1, pcm_get_error = cannot start channel: Broken pipe
+01-12 10:23:57.713 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:23:57.718 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:23:57.719 E/WifiTrafficPoller( 1129):  packet count Tx=1099779 Rx=502110
+01-12 10:23:58.051 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:23:58.077 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:23:58.719 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:23:58.720 E/WifiTrafficPoller( 1129):  packet count Tx=1101095 Rx=502669
+01-12 10:23:59.503 E/WifiMonitor( 1129): handleEvent unknown: 14  CTRL-EVENT-SCAN-STARTED 
+01-12 10:23:59.720 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:23:59.721 E/WifiTrafficPoller( 1129):  packet count Tx=1102165 Rx=503162
+01-12 10:24:00.340 E/WifiConfigStore( 1129): updateConfiguration freq=2462 BSSID=08:10:7c:46:33:81 RSSI=-40 "ChinaNet-801"WPA_PSK
+01-12 10:24:00.722 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:24:00.723 E/WifiTrafficPoller( 1129):  packet count Tx=1102666 Rx=503434
+01-12 10:24:01.420 E/Linphone( 2410): Failed to compute remote parameters because no op linked to session 0x7fac9f2628 has been found
+01-12 10:24:01.440 E/Linphone( 2410): Failed to compute remote parameters
+01-12 10:24:01.442 E/Linphone( 2410): Failed to compute remote parameters
+01-12 10:24:01.724 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:24:01.724 E/WifiTrafficPoller( 1129):  packet count Tx=1103189 Rx=503699
+01-12 10:24:02.018 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:24:02.032 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:24:02.037 E/agps    (  335):  ERR: [WIFI2AGPS] sendto dest=[/data/agps_supl/wifi_2_agps] len=7952 reason=[No such file or directory]
+01-12 10:24:02.037 E/agps    (  335):  ERR: [WIFI2AGPS] external_snd_cmd safe_sendto failed
+01-12 10:24:02.050 E/AudioALSAPlaybackHandlerBase(  324): openPcmDriver(), pcm_start(0xf7941e70) fail due to cannot start channel: Broken pipe
+01-12 10:24:02.114 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:24:02.127 E/AudioFlinger(  324): getNextBuffer, get null buffer
+01-12 10:24:02.159 E/WifiConfigStore( 1129): updateSavedNetworkHistory(): try "ChinaNet-801"WPA_PSK SSID="ChinaNet-801" ChinaNet-801 [WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS] ajst=0
+01-12 10:24:02.160 E/WifiConfigStore( 1129):         got known scan result 08:10:7c:46:33:81 key : "ChinaNet-801"WPA_PSK num: 1 rssi=-41 freq=2462
+01-12 10:24:02.165 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:24:02.170 E/WifiConfigStore( 1129):  writeKnownNetworkHistory() num networks:3 needWrite=false
+01-12 10:24:02.170 E/WifiStateMachine( 1129): mIsFullScanOngoing: true, mSendScanResultsBroadcast: false
+01-12 10:24:02.170 E/WifiStateMachine( 1129): mWifiOnScanCount: 170
+01-12 10:24:02.194 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:24:02.295 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:24:02.353 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:24:02.367 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:24:02.399 E/MtkOmxVenc(  324): [0xf79a6728] bufk = 0
+01-12 10:24:02.434 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:24:02.442 E/Linphone( 2410): Cannot load /data/user/0/com.sip/files/share/images/nowebcamCIF.jpg
+01-12 10:24:02.460 E/AudioFlinger(  324): getNextBuffer, get null buffer
+01-12 10:24:02.475 E/MtkOmxVdecEx(  324): [0xf7b06f10] OmxVdecLogEnable = 1, bOmxVdecPerfLogEnable = 0
+01-12 10:24:02.475 E/MtkOmxVdecEx(  324): [0xf7b06f10] [MtkOmxVdec]VAL_CHIP_NAME_DENALI_2
+01-12 10:24:02.477 E/MtkOmxVdecEx(  324): [0xf7b06f10] MtkOmxVdec::ComponentInit (OMX.MTK.VIDEO.DECODER.AVC)
+01-12 10:24:02.493 E/MtkOmxVdecEx(  324): [0xf7b06f10] MtkOmxVdec::GetExtensionIndex Unknown parameter name: OMX.google.android.index.configureVideoTunnelMode
+01-12 10:24:02.493 E/MtkOmxVdecEx(  324): [0xf7b06f10] MtkOmxVdec::GetExtensionIndex Unknown parameter name: OMX.google.android.index.useAndroidNativeBuffer2
+01-12 10:24:02.493 E/MtkOmxVdecEx(  324): [0xf7b06f10] MtkOmxVdec::GetExtensionIndex Unknown parameter name: OMX.google.android.index.allocateNativeHandle
+01-12 10:24:02.493 E/OMXNodeInstance(  324): getParameter(a8:MTK.DECODER.AVC, ??(0x7f200405)) ERROR: UnsupportedIndex(0x8000101a)
+01-12 10:24:02.496 E/OMXNodeInstance(  324): getParameter(a8:MTK.DECODER.AVC, ??(0x7f200405)) ERROR: UnsupportedIndex(0x8000101a)
+01-12 10:24:02.499 E/MtkOmxVdecEx(  324): [0xf7b06f10] SetParameter: VDEC_DRV_PIXEL_FORMAT_YUV_420_PLANER_MTK
+01-12 10:24:02.499 E/MtkOmxVdecEx(  324): [0xf7b06f10] [ERROR] Cannot get param: VDEC_DRV_GET_TYPE_GET_FRAME_CROP_INFO
+01-12 10:24:02.500 E/MtkOmxVdecEx(  324): [0xf7b06f10] OMX_GoogleAndroidIndexEnableAndroidNativeBuffers enable(0)
+01-12 10:24:02.501 E/MtkOmxVdecEx(  324): [0xf7b06f10] MtkOmxVdec::SetConfig Unknown config index: 0x6F800002
+01-12 10:24:02.501 E/OMXNodeInstance(  324): setConfig(a8:MTK.DECODER.AVC, ConfigPriority(0x6f800002)) ERROR: UnsupportedIndex(0x8000101a)
+01-12 10:24:02.505 E/OMXNodeInstance(  324): getParameter(a8:MTK.DECODER.AVC, ??(0x7f200405)) ERROR: UnsupportedIndex(0x8000101a)
+01-12 10:24:02.507 E/MtkOmxVdecEx(  324): [0xf7b06f10] [ERROR] Cannot get param: VDEC_DRV_GET_TYPE_GET_FRAME_CROP_INFO
+01-12 10:24:02.507 E/OMXNodeInstance(  324): getConfig(a8:MTK.DECODER.AVC, ??(0x7f00001c)) ERROR: BadParameter(0x80001005)
+01-12 10:24:02.544 E/MtkOmxVenc(  324): [0xf79a6728] MtkOmxVenc::GetExtensionIndex Unknown parameter name: OMX.google.android.index.storeANWBufferInMetadata
+01-12 10:24:02.545 E/MtkOmxVenc(  324): [0xf79a6728] MtkOmxVenc::GetExtensionIndex Unknown parameter name: OMX.google.android.index.describeColorFormat
+01-12 10:24:02.546 E/MtkOmxVenc(  324): [0xf79a6728] MtkOmxVenc::GetExtensionIndex Unknown parameter name: OMX.google.android.index.describeColorFormat
+01-12 10:24:02.548 E/MtkOmxVenc(  324): [0xf79a6728] MtkOmxVenc::GetExtensionIndex Unknown parameter name: OMX.google.android.index.describeColorFormat
+01-12 10:24:02.549 E/MtkOmxVenc(  324): [0xf79a6728] MtkOmxVenc::GetExtensionIndex Unknown parameter name: OMX.google.android.index.describeColorFormat
+01-12 10:24:02.557 E/VDO_LOG (  324): drvb S
+01-12 10:24:02.557 E/VDO_LOG (  324): drvb E
+01-12 10:24:02.559 E/VDO_LOG (  324): drvb S
+01-12 10:24:02.560 E/VDO_LOG (  324): drvb E
+01-12 10:24:02.561 E/VDO_LOG (  324): drvb S
+01-12 10:24:02.561 E/VDO_LOG (  324): drvb E
+01-12 10:24:02.563 E/VDO_LOG (  324): drvb S
+01-12 10:24:02.563 E/VDO_LOG (  324): drvb E
+01-12 10:24:02.565 E/VDO_LOG (  324): drvb S
+01-12 10:24:02.565 E/VDO_LOG (  324): drvb E
+01-12 10:24:02.567 E/VDO_LOG (  324): drvb S
+01-12 10:24:02.567 E/VDO_LOG (  324): drvb E
+01-12 10:24:02.568 E/VDO_LOG (  324): drvb S
+01-12 10:24:02.569 E/VDO_LOG (  324): drvb E
+01-12 10:24:02.570 E/VDO_LOG (  324): drvb S
+01-12 10:24:02.570 E/VDO_LOG (  324): drvb E
+01-12 10:24:02.572 E/VDO_LOG (  324): drvb S
+01-12 10:24:02.572 E/VDO_LOG (  324): drvb E
+01-12 10:24:02.574 E/VDO_LOG (  324): drvb S
+01-12 10:24:02.574 E/VDO_LOG (  324): drvb E
+01-12 10:24:02.576 E/VDO_LOG (  324): drvb S
+01-12 10:24:02.576 E/VDO_LOG (  324): drvb E
+01-12 10:24:02.578 E/VDO_LOG (  324): drvb S
+01-12 10:24:02.578 E/VDO_LOG (  324): drvb E
+01-12 10:24:02.580 E/VDO_LOG (  324): drvb S
+01-12 10:24:02.580 E/VDO_LOG (  324): drvb E
+01-12 10:24:02.582 E/VDO_LOG (  324): drvb S
+01-12 10:24:02.582 E/VDO_LOG (  324): drvb E
+01-12 10:24:02.583 E/VDO_LOG (  324): drvb S
+01-12 10:24:02.583 E/VDO_LOG (  324): drvb E
+01-12 10:24:02.586 E/VDO_LOG (  324): drvb S
+01-12 10:24:02.586 E/VDO_LOG (  324): drvb E
+01-12 10:24:02.588 E/VDO_LOG (  324): drvb S
+01-12 10:24:02.588 E/VDO_LOG (  324): drvb E
+01-12 10:24:02.590 E/VDO_LOG (  324): drvb S
+01-12 10:24:02.590 E/VDO_LOG (  324): drvb E
+01-12 10:24:02.592 E/VDO_LOG (  324): drvb S
+01-12 10:24:02.592 E/VDO_LOG (  324): drvb E
+01-12 10:24:02.592 E/VDO_LOG (  324): IN -> profile 0x00000001, level 11, resolution 0, width 0, height 0
+01-12 10:24:02.592 E/VDO_LOG (  324): OUT -> profile 0x00000001, level 10, resolution 5, width 640, height 480
+01-12 10:24:02.592 E/MtkOmxVenc(  324): [0xf79a6728] QueryVideoProfileLevel(5) fail, profile(1)/level(11)
+01-12 10:24:02.593 E/ACodec  ( 2410): [OMX.MTK.VIDEO.ENCODER.AVC] configureCodec returning error 80000000
+01-12 10:24:02.593 E/ACodec  ( 2410): signalError(omxError 0x80001001, internalError -2147483648)
+01-12 10:24:02.593 E/MediaCodec( 2410): Codec reported err 0x80001001, actionCode 0, while in state 3
+01-12 10:24:02.593 E/MediaCodec( 2410): configure failed with err 0x80001001, resetting...
+01-12 10:24:02.602 E/MtkOmxVenc(  324): [0xf79a6728] bufk = 0
+01-12 10:24:02.608 E/Linphone( 2410): MediaCodecEncoder: could not configure encoder.
+01-12 10:24:02.611 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:02.725 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:24:02.726 E/WifiTrafficPoller( 1129):  packet count Tx=1104386 Rx=504318
+01-12 10:24:02.907 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:24:02.944 E/Cta5File(  324): Cta5File::isCta5NormalFile false, bad magic:OggS
+01-12 10:24:02.944 E/Cta5File(  324): Cta5File::isCta5MultimediaFile false, bad magic:cX€
+01-12 10:24:02.951 E/DrmCtaPlugIn(  323): [ERROR]onOpenDecryptSession - The key is not set by user
+01-12 10:24:02.951 E/DrmMtkUtil/DrmUtil(  323): parseDcf: not dcf type, dcf version value [79]
+01-12 10:24:02.952 E/DrmMtkPlugIn(  323): onOpenDecryptSession() : failed to parse dcf file.
+01-12 10:24:02.959 E/ImgSensorDrv(  324): [init]Err(  523):[init]:  SENSOR_FEATURE_GET_PIXEL_CLOCK_FREQ error = 27
+--------- beginning of system
+01-12 10:24:02.962 E/APEExtractor(  324): getAPEInfo not ape 5004
+01-12 10:24:02.962 E/        (  324): unknown object: 5367674f-200-0-0000000000008d37, 537 bytes
+01-12 10:24:02.962 E/        (  324): error parsing header: -6
+01-12 10:24:02.975 E/Cta5File(  324): Cta5File::isCta5NormalFile false, bad magic:OggS
+01-12 10:24:02.975 E/Cta5File(  324): Cta5File::isCta5MultimediaFile false, bad magic:Þël
+01-12 10:24:02.984 E/DrmCtaPlugIn(  323): [ERROR]onOpenDecryptSession - The key is not set by user
+01-12 10:24:02.984 E/DrmMtkUtil/DrmUtil(  323): parseDcf: not dcf type, dcf version value [79]
+01-12 10:24:02.985 E/DrmMtkPlugIn(  323): onOpenDecryptSession() : failed to parse dcf file.
+01-12 10:24:02.994 E/APEExtractor(  324): getAPEInfo not ape 5002
+01-12 10:24:02.995 E/        (  324): unknown object: 5367674f-200-0-00000000000003ba, 25022 bytes
+01-12 10:24:02.995 E/        (  324): error parsing header: -6
+01-12 10:24:03.015 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:24:03.021 E/AudioALSAPlaybackHandlerBase(  324): openPcmDriver(), pcm_start(0xf7941e70) fail due to cannot start channel: Broken pipe
+01-12 10:24:03.346 E/WifiConfigStore( 1129): updateConfiguration freq=2462 BSSID=08:10:7c:46:33:81 RSSI=-42 "ChinaNet-801"WPA_PSK
+01-12 10:24:03.727 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:24:03.727 E/WifiTrafficPoller( 1129):  packet count Tx=1105801 Rx=504958
+01-12 10:24:04.469 E/MtkOmxVenc(  324): [0xf79a6728] MtkOmxVenc::GetExtensionIndex Unknown parameter name: OMX.google.android.index.storeANWBufferInMetadata
+01-12 10:24:04.470 E/MtkOmxVenc(  324): [0xf79a6728] MtkOmxVenc::GetExtensionIndex Unknown parameter name: OMX.google.android.index.describeColorFormat
+01-12 10:24:04.471 E/MtkOmxVenc(  324): [0xf79a6728] MtkOmxVenc::GetExtensionIndex Unknown parameter name: OMX.google.android.index.describeColorFormat
+01-12 10:24:04.472 E/MtkOmxVenc(  324): [0xf79a6728] MtkOmxVenc::GetExtensionIndex Unknown parameter name: OMX.google.android.index.describeColorFormat
+01-12 10:24:04.473 E/MtkOmxVenc(  324): [0xf79a6728] MtkOmxVenc::GetExtensionIndex Unknown parameter name: OMX.google.android.index.describeColorFormat
+01-12 10:24:04.477 E/VDO_LOG (  324): drvb S
+01-12 10:24:04.477 E/VDO_LOG (  324): drvb E
+01-12 10:24:04.478 E/VDO_LOG (  324): drvb S
+01-12 10:24:04.478 E/VDO_LOG (  324): drvb E
+01-12 10:24:04.480 E/VDO_LOG (  324): drvb S
+01-12 10:24:04.480 E/VDO_LOG (  324): drvb E
+01-12 10:24:04.481 E/VDO_LOG (  324): drvb S
+01-12 10:24:04.481 E/VDO_LOG (  324): drvb E
+01-12 10:24:04.483 E/VDO_LOG (  324): drvb S
+01-12 10:24:04.483 E/VDO_LOG (  324): drvb E
+01-12 10:24:04.484 E/VDO_LOG (  324): drvb S
+01-12 10:24:04.484 E/VDO_LOG (  324): drvb E
+01-12 10:24:04.486 E/VDO_LOG (  324): drvb S
+01-12 10:24:04.486 E/VDO_LOG (  324): drvb E
+01-12 10:24:04.487 E/VDO_LOG (  324): drvb S
+01-12 10:24:04.487 E/VDO_LOG (  324): drvb E
+01-12 10:24:04.488 E/VDO_LOG (  324): drvb S
+01-12 10:24:04.488 E/VDO_LOG (  324): drvb E
+01-12 10:24:04.489 E/VDO_LOG (  324): drvb S
+01-12 10:24:04.489 E/VDO_LOG (  324): drvb E
+01-12 10:24:04.491 E/VDO_LOG (  324): drvb S
+01-12 10:24:04.491 E/VDO_LOG (  324): drvb E
+01-12 10:24:04.492 E/VDO_LOG (  324): drvb S
+01-12 10:24:04.492 E/VDO_LOG (  324): drvb E
+01-12 10:24:04.494 E/VDO_LOG (  324): drvb S
+01-12 10:24:04.494 E/VDO_LOG (  324): drvb E
+01-12 10:24:04.495 E/VDO_LOG (  324): drvb S
+01-12 10:24:04.495 E/VDO_LOG (  324): drvb E
+01-12 10:24:04.496 E/VDO_LOG (  324): drvb S
+01-12 10:24:04.497 E/VDO_LOG (  324): drvb E
+01-12 10:24:04.499 E/VDO_LOG (  324): drvb S
+01-12 10:24:04.499 E/VDO_LOG (  324): drvb E
+01-12 10:24:04.500 E/VDO_LOG (  324): drvb S
+01-12 10:24:04.501 E/VDO_LOG (  324): drvb E
+01-12 10:24:04.502 E/VDO_LOG (  324): drvb S
+01-12 10:24:04.502 E/VDO_LOG (  324): drvb E
+01-12 10:24:04.505 E/VDO_LOG (  324): drvb S
+01-12 10:24:04.505 E/VDO_LOG (  324): drvb E
+01-12 10:24:04.505 E/VDO_LOG (  324): IN -> profile 0x00000001, level 11, resolution 0, width 0, height 0
+01-12 10:24:04.505 E/VDO_LOG (  324): OUT -> profile 0x00000001, level 10, resolution 5, width 640, height 480
+01-12 10:24:04.505 E/MtkOmxVenc(  324): [0xf79a6728] QueryVideoProfileLevel(5) fail, profile(1)/level(11)
+01-12 10:24:04.506 E/ACodec  ( 2410): [OMX.MTK.VIDEO.ENCODER.AVC] configureCodec returning error 80000000
+01-12 10:24:04.506 E/ACodec  ( 2410): signalError(omxError 0x80001001, internalError -2147483648)
+01-12 10:24:04.506 E/MediaCodec( 2410): Codec reported err 0x80001001, actionCode 0, while in state 3
+01-12 10:24:04.506 E/MediaCodec( 2410): configure failed with err 0x80001001, resetting...
+01-12 10:24:04.518 E/MtkOmxVenc(  324): [0xf79a6728] bufk = 0
+01-12 10:24:04.522 E/Linphone( 2410): MediaCodecEncoder: could not configure encoder.
+01-12 10:24:04.620 E/MtkOmxVenc(  324): [0xf7b0a8b0] bufk = 0
+01-12 10:24:04.636 E/MtkOmxVdecEx(  324): [0xf7b06f10] OmxVdecLogEnable = 1, bOmxVdecPerfLogEnable = 0
+01-12 10:24:04.636 E/MtkOmxVdecEx(  324): [0xf7b06f10] [MtkOmxVdec]VAL_CHIP_NAME_DENALI_2
+01-12 10:24:04.637 E/MtkOmxVdecEx(  324): [0xf7b06f10] MtkOmxVdec::ComponentInit (OMX.MTK.VIDEO.DECODER.AVC)
+01-12 10:24:04.643 E/MtkOmxVdecEx(  324): [0xf7b06f10] MtkOmxVdec::GetExtensionIndex Unknown parameter name: OMX.google.android.index.configureVideoTunnelMode
+01-12 10:24:04.643 E/MtkOmxVdecEx(  324): [0xf7b06f10] MtkOmxVdec::GetExtensionIndex Unknown parameter name: OMX.google.android.index.useAndroidNativeBuffer2
+01-12 10:24:04.643 E/MtkOmxVdecEx(  324): [0xf7b06f10] MtkOmxVdec::GetExtensionIndex Unknown parameter name: OMX.google.android.index.allocateNativeHandle
+01-12 10:24:04.643 E/OMXNodeInstance(  324): getParameter(ac:MTK.DECODER.AVC, ??(0x7f200405)) ERROR: UnsupportedIndex(0x8000101a)
+01-12 10:24:04.648 E/OMXNodeInstance(  324): getParameter(ac:MTK.DECODER.AVC, ??(0x7f200405)) ERROR: UnsupportedIndex(0x8000101a)
+01-12 10:24:04.651 E/MtkOmxVdecEx(  324): [0xf7b06f10] SetParameter: VDEC_DRV_PIXEL_FORMAT_YUV_420_PLANER_MTK
+01-12 10:24:04.651 E/MtkOmxVdecEx(  324): [0xf7b06f10] [ERROR] Cannot get param: VDEC_DRV_GET_TYPE_GET_FRAME_CROP_INFO
+01-12 10:24:04.652 E/MtkOmxVdecEx(  324): [0xf7b06f10] OMX_GoogleAndroidIndexEnableAndroidNativeBuffers enable(0)
+01-12 10:24:04.653 E/MtkOmxVdecEx(  324): [0xf7b06f10] MtkOmxVdec::SetConfig Unknown config index: 0x6F800002
+01-12 10:24:04.653 E/OMXNodeInstance(  324): setConfig(ac:MTK.DECODER.AVC, ConfigPriority(0x6f800002)) ERROR: UnsupportedIndex(0x8000101a)
+01-12 10:24:04.659 E/OMXNodeInstance(  324): getParameter(ac:MTK.DECODER.AVC, ??(0x7f200405)) ERROR: UnsupportedIndex(0x8000101a)
+01-12 10:24:04.661 E/MtkOmxVdecEx(  324): [0xf7b06f10] [ERROR] Cannot get param: VDEC_DRV_GET_TYPE_GET_FRAME_CROP_INFO
+01-12 10:24:04.661 E/OMXNodeInstance(  324): getConfig(ac:MTK.DECODER.AVC, ??(0x7f00001c)) ERROR: BadParameter(0x80001005)
+01-12 10:24:04.690 E/Cta5File(  324): Cta5File::isCta5NormalFile false, bad magic:OggS
+01-12 10:24:04.690 E/Cta5File(  324): Cta5File::isCta5MultimediaFile false, bad magic:cX€
+01-12 10:24:04.695 E/DrmCtaPlugIn(  323): [ERROR]onOpenDecryptSession - The key is not set by user
+01-12 10:24:04.695 E/DrmMtkUtil/DrmUtil(  323): parseDcf: not dcf type, dcf version value [79]
+01-12 10:24:04.695 E/DrmMtkPlugIn(  323): onOpenDecryptSession() : failed to parse dcf file.
+01-12 10:24:04.697 E/ImgSensorDrv(  324): [init]Err(  523):[init]:  SENSOR_FEATURE_GET_PIXEL_CLOCK_FREQ error = 27
+01-12 10:24:04.703 E/APEExtractor(  324): getAPEInfo not ape 5004
+01-12 10:24:04.703 E/        (  324): unknown object: 5367674f-200-0-0000000000008d37, 537 bytes
+01-12 10:24:04.703 E/        (  324): error parsing header: -6
+01-12 10:24:04.718 E/Cta5File(  324): Cta5File::isCta5NormalFile false, bad magic:OggS
+01-12 10:24:04.719 E/Cta5File(  324): Cta5File::isCta5MultimediaFile false, bad magic:Þël
+01-12 10:24:04.721 E/DrmCtaPlugIn(  323): [ERROR]onOpenDecryptSession - The key is not set by user
+01-12 10:24:04.722 E/DrmMtkUtil/DrmUtil(  323): parseDcf: not dcf type, dcf version value [79]
+01-12 10:24:04.722 E/DrmMtkPlugIn(  323): onOpenDecryptSession() : failed to parse dcf file.
+01-12 10:24:04.728 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:24:04.729 E/WifiTrafficPoller( 1129):  packet count Tx=1107105 Rx=505516
+01-12 10:24:04.732 E/APEExtractor(  324): getAPEInfo not ape 5002
+01-12 10:24:04.732 E/        (  324): unknown object: 5367674f-200-0-00000000000003ba, 25022 bytes
+01-12 10:24:04.732 E/        (  324): error parsing header: -6
+01-12 10:24:04.763 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage3500
+01-12 10:24:04.763 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage4189
+01-12 10:24:04.771 E/BatteryService( 1129): set lcd info battery 101
+01-12 10:24:04.772 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage3500
+01-12 10:24:04.772 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage4189
+01-12 10:24:04.772 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage3500
+01-12 10:24:04.772 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage4189
+01-12 10:24:04.773 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage3500
+01-12 10:24:04.773 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage4189
+01-12 10:24:05.729 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:24:05.730 E/WifiTrafficPoller( 1129):  packet count Tx=1108337 Rx=506071
+01-12 10:24:06.256 E/MtkOmxVenc(  324): [0xf7b0a8b0] MtkOmxVenc::GetExtensionIndex Unknown parameter name: OMX.google.android.index.storeANWBufferInMetadata
+01-12 10:24:06.258 E/MtkOmxVenc(  324): [0xf7b0a8b0] MtkOmxVenc::GetExtensionIndex Unknown parameter name: OMX.google.android.index.describeColorFormat
+01-12 10:24:06.259 E/MtkOmxVenc(  324): [0xf7b0a8b0] MtkOmxVenc::GetExtensionIndex Unknown parameter name: OMX.google.android.index.describeColorFormat
+01-12 10:24:06.260 E/MtkOmxVenc(  324): [0xf7b0a8b0] MtkOmxVenc::GetExtensionIndex Unknown parameter name: OMX.google.android.index.describeColorFormat
+01-12 10:24:06.262 E/MtkOmxVenc(  324): [0xf7b0a8b0] MtkOmxVenc::GetExtensionIndex Unknown parameter name: OMX.google.android.index.describeColorFormat
+01-12 10:24:06.275 E/VDO_LOG (  324): drvb S
+01-12 10:24:06.275 E/VDO_LOG (  324): drvb E
+01-12 10:24:06.276 E/VDO_LOG (  324): drvb S
+01-12 10:24:06.276 E/VDO_LOG (  324): drvb E
+01-12 10:24:06.277 E/VDO_LOG (  324): drvb S
+01-12 10:24:06.277 E/VDO_LOG (  324): drvb E
+01-12 10:24:06.279 E/VDO_LOG (  324): drvb S
+01-12 10:24:06.279 E/VDO_LOG (  324): drvb E
+01-12 10:24:06.280 E/VDO_LOG (  324): drvb S
+01-12 10:24:06.280 E/VDO_LOG (  324): drvb E
+01-12 10:24:06.282 E/VDO_LOG (  324): drvb S
+01-12 10:24:06.282 E/VDO_LOG (  324): drvb E
+01-12 10:24:06.283 E/VDO_LOG (  324): drvb S
+01-12 10:24:06.283 E/VDO_LOG (  324): drvb E
+01-12 10:24:06.285 E/VDO_LOG (  324): drvb S
+01-12 10:24:06.285 E/VDO_LOG (  324): drvb E
+01-12 10:24:06.293 E/VDO_LOG (  324): drvb S
+01-12 10:24:06.293 E/VDO_LOG (  324): drvb E
+01-12 10:24:06.295 E/VDO_LOG (  324): drvb S
+01-12 10:24:06.295 E/VDO_LOG (  324): drvb E
+01-12 10:24:06.297 E/VDO_LOG (  324): drvb S
+01-12 10:24:06.297 E/VDO_LOG (  324): drvb E
+01-12 10:24:06.303 E/VDO_LOG (  324): drvb S
+01-12 10:24:06.303 E/VDO_LOG (  324): drvb E
+01-12 10:24:06.305 E/VDO_LOG (  324): drvb S
+01-12 10:24:06.305 E/VDO_LOG (  324): drvb E
+01-12 10:24:06.306 E/VDO_LOG (  324): drvb S
+01-12 10:24:06.306 E/VDO_LOG (  324): drvb E
+01-12 10:24:06.309 E/VDO_LOG (  324): drvb S
+01-12 10:24:06.309 E/VDO_LOG (  324): drvb E
+01-12 10:24:06.311 E/VDO_LOG (  324): drvb S
+01-12 10:24:06.311 E/VDO_LOG (  324): drvb E
+01-12 10:24:06.313 E/VDO_LOG (  324): drvb S
+01-12 10:24:06.313 E/VDO_LOG (  324): drvb E
+01-12 10:24:06.314 E/VDO_LOG (  324): drvb S
+01-12 10:24:06.314 E/VDO_LOG (  324): drvb E
+01-12 10:24:06.316 E/VDO_LOG (  324): drvb S
+01-12 10:24:06.316 E/VDO_LOG (  324): drvb E
+01-12 10:24:06.316 E/VDO_LOG (  324): IN -> profile 0x00000001, level 11, resolution 0, width 0, height 0
+01-12 10:24:06.316 E/VDO_LOG (  324): OUT -> profile 0x00000001, level 10, resolution 5, width 640, height 480
+01-12 10:24:06.316 E/MtkOmxVenc(  324): [0xf7b0a8b0] QueryVideoProfileLevel(5) fail, profile(1)/level(11)
+01-12 10:24:06.317 E/ACodec  ( 2410): [OMX.MTK.VIDEO.ENCODER.AVC] configureCodec returning error 80000000
+01-12 10:24:06.317 E/ACodec  ( 2410): signalError(omxError 0x80001001, internalError -2147483648)
+01-12 10:24:06.317 E/MediaCodec( 2410): Codec reported err 0x80001001, actionCode 0, while in state 3
+01-12 10:24:06.317 E/MediaCodec( 2410): configure failed with err 0x80001001, resetting...
+01-12 10:24:06.331 E/MtkOmxVenc(  324): [0xf7b0a8b0] bufk = 0
+01-12 10:24:06.336 E/Linphone( 2410): MediaCodecEncoder: could not configure encoder.
+01-12 10:24:06.370 E/WifiConfigStore( 1129): updateConfiguration freq=2462 BSSID=08:10:7c:46:33:81 RSSI=-42 "ChinaNet-801"WPA_PSK
+01-12 10:24:06.398 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:24:06.423 E/AudioALSAStreamOut(  324): -getPresentationPosition(), no playback handler, *frames = 6896384, return
+01-12 10:24:06.435 E/AudioALSAStreamOut(  324): -getPresentationPosition(), no playback handler, *frames = 6896640, return
+01-12 10:24:06.446 E/AudioALSAStreamOut(  324): -getPresentationPosition(), no playback handler, *frames = 6896896, return
+01-12 10:24:06.458 E/AudioALSAStreamOut(  324): -getPresentationPosition(), no playback handler, *frames = 6897152, return
+01-12 10:24:06.469 E/AudioALSAStreamOut(  324): -getPresentationPosition(), no playback handler, *frames = 6897408, return
+01-12 10:24:06.488 E/AudioALSAStreamOut(  324): -getPresentationPosition(), no playback handler, *frames = 6897664, return
+01-12 10:24:06.500 E/AudioALSAStreamOut(  324): -getPresentationPosition(), no playback handler, *frames = 6897920, return
+01-12 10:24:06.511 E/AudioALSAPlaybackHandlerBase(  324): openPcmDriver(), pcm_start(0xf79a8120) fail due to cannot start channel: Broken pipe
+01-12 10:24:06.524 E/WifiMonitor( 1129): handleEvent unknown: 14  CTRL-EVENT-SCAN-STARTED 
+01-12 10:24:06.629 E/ImgSensorDrv(  324): [setScenario]Err(  807):[setScenario]: Sensor clock too slow = 27 1904
+01-12 10:24:06.657 E/Sensors ( 1129): handleToDriver handle(0)
+01-12 10:24:06.657 E/Sensors ( 1129): new setDelay handle(0),ns(10000000)m, error(-1), index(2)
+01-12 10:24:06.657 E/Sensors ( 1129): new setDelay handle(0),ns(10000000) err! go to hwmsen
+01-12 10:24:06.657 E/Sensors ( 1129): handleToDriver handle(0)
+01-12 10:24:06.658 E/Sensors ( 1129): new setDelay handle(0),ns(33000000)m, error(-1), index(2)
+01-12 10:24:06.658 E/Sensors ( 1129): new setDelay handle(0),ns(33000000) err! go to hwmsen
+01-12 10:24:06.730 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:24:06.730 E/WifiTrafficPoller( 1129):  packet count Tx=1109502 Rx=506636
+01-12 10:24:06.941 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:06.991 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:07.071 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:07.111 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:07.151 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:07.191 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:07.232 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:07.270 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:07.321 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:07.361 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:07.411 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:07.421 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:07.491 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:07.531 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:07.621 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:07.631 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:07.703 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:07.732 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:24:07.732 E/WifiTrafficPoller( 1129):  packet count Tx=1110140 Rx=506930
+01-12 10:24:07.741 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:07.781 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:07.822 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:07.871 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:07.952 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:07.961 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:08.001 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:08.082 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:08.121 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:08.161 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:08.204 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:08.246 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:08.301 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:08.341 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:08.351 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:08.421 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:08.461 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:08.501 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:08.551 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:08.591 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:08.631 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:08.681 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:08.723 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:08.734 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:24:08.734 E/WifiTrafficPoller( 1129):  packet count Tx=1110693 Rx=507264
+01-12 10:24:08.761 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:08.801 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:08.841 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:08.891 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:08.981 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:08.991 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:09.061 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:09.081 E/agps    (  335):  ERR: [WIFI2AGPS] sendto dest=[/data/agps_supl/wifi_2_agps] len=7952 reason=[No such file or directory]
+01-12 10:24:09.081 E/agps    (  335):  ERR: [WIFI2AGPS] external_snd_cmd safe_sendto failed
+01-12 10:24:09.101 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:09.181 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:09.191 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:09.209 E/WifiConfigStore( 1129): updateSavedNetworkHistory(): try "ChinaNet-801"WPA_PSK SSID="ChinaNet-801" ChinaNet-801 [WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS] ajst=0
+01-12 10:24:09.210 E/WifiConfigStore( 1129):         got known scan result 08:10:7c:46:33:81 key : "ChinaNet-801"WPA_PSK num: 1 rssi=-40 freq=2462
+01-12 10:24:09.229 E/WifiConfigStore( 1129):  writeKnownNetworkHistory() num networks:3 needWrite=false
+01-12 10:24:09.229 E/WifiStateMachine( 1129): mIsFullScanOngoing: true, mSendScanResultsBroadcast: false
+01-12 10:24:09.229 E/WifiStateMachine( 1129): mWifiOnScanCount: 171
+01-12 10:24:09.231 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:09.311 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:09.351 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:09.375 E/WifiConfigStore( 1129): updateConfiguration freq=2462 BSSID=08:10:7c:46:33:81 RSSI=-40 "ChinaNet-801"WPA_PSK
+01-12 10:24:09.401 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:09.443 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:09.474 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:09.522 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:09.562 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:09.621 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:09.691 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:09.735 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:24:09.735 E/WifiTrafficPoller( 1129):  packet count Tx=1111564 Rx=507776
+01-12 10:24:09.741 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:09.831 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:09.842 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:09.902 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:09.991 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:10.011 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:10.031 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:10.112 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:10.161 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:10.202 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:10.241 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:10.281 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:10.321 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:10.371 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:10.381 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:10.451 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:10.491 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:10.541 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:10.582 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:10.621 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:10.662 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:10.711 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:10.737 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:24:10.738 E/WifiTrafficPoller( 1129):  packet count Tx=1112676 Rx=508310
+01-12 10:24:10.751 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:10.802 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:10.831 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:10.881 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:11.011 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:11.021 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:11.050 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:11.131 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:11.141 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:11.231 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:11.261 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:11.311 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:11.342 E/Linphone( 2410): MediaCodecEncoder: encoder not running. Dropping buffer.
+01-12 10:24:11.521 E/AudioFlinger(  324): getNextBuffer, get null buffer
+01-12 10:24:11.641 E/Sensors ( 1129): handleToDriver handle(0)
+01-12 10:24:11.641 E/Sensors ( 1129): new setDelay handle(0),ns(50000000)m, error(-1), index(2)
+01-12 10:24:11.642 E/Sensors ( 1129): new setDelay handle(0),ns(50000000) err! go to hwmsen
+01-12 10:24:11.739 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:24:11.740 E/WifiTrafficPoller( 1129):  packet count Tx=1113913 Rx=508854
+01-12 10:24:11.749 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:24:11.890 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:24:11.917 E/AudioALSAPlaybackHandlerBase(  324): openPcmDriver(), pcm_start(0xf79bbb70) fail due to cannot start channel: Broken pipe
+01-12 10:24:11.958 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:24:12.159 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:24:12.313 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:24:12.336 E/AudioALSAPlaybackHandlerBase(  324): openPcmDriver(), pcm_start(0xf7941e70) fail due to cannot start channel: Broken pipe
+01-12 10:24:12.349 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:24:12.382 E/WifiConfigStore( 1129): updateConfiguration freq=2462 BSSID=08:10:7c:46:33:81 RSSI=-40 "ChinaNet-801"WPA_PSK
+01-12 10:24:12.385 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:24:12.408 E/AudioALSAPlaybackHandlerBase(  324): -getHardwareBufferInfo pcm_get_htimestamp fail, ret = -1, pcm_get_error = cannot start channel: Broken pipe
+01-12 10:24:12.420 E/AudioALSAPlaybackHandlerBase(  324): -getHardwareBufferInfo pcm_get_htimestamp fail, ret = -1, pcm_get_error = cannot start channel: Broken pipe
+01-12 10:24:12.430 E/AudioALSAPlaybackHandlerBase(  324): openPcmDriver(), pcm_start(0xf798ed28) fail due to cannot start channel: Broken pipe
+01-12 10:24:12.431 E/AudioALSAPlaybackHandlerBase(  324): -getHardwareBufferInfo pcm_get_htimestamp fail, ret = -1, pcm_get_error = cannot start channel: Broken pipe
+01-12 10:24:12.432 E/AudioALSAPlaybackHandlerBase(  324): -getHardwareBufferInfo pcm_get_htimestamp fail, ret = -1, pcm_get_error = cannot start channel: Broken pipe
+01-12 10:24:12.442 E/AudioALSAPlaybackHandlerBase(  324): -getHardwareBufferInfo pcm_get_htimestamp fail, ret = -1, pcm_get_error = cannot start channel: Broken pipe
+01-12 10:24:12.461 E/AudioALSAStreamOut(  324): -getPresentationPosition(), no playback handler, *frames = 7153920, return
+01-12 10:24:12.472 E/AudioALSAStreamOut(  324): -getPresentationPosition(), no playback handler, *frames = 7154176, return
+01-12 10:24:12.483 E/AudioALSAPlaybackHandlerBase(  324): openPcmDriver(), pcm_start(0xf7b27cc8) fail due to cannot start channel: Broken pipe
+01-12 10:24:12.526 E/AudioALSAStreamOut(  324): -getPresentationPosition(), no playback handler, *frames = 3165184, return
+01-12 10:24:12.572 E/AudioALSAPlaybackHandlerBase(  324): openPcmDriver(), pcm_start(0xf7941e70) fail due to cannot start channel: Broken pipe
+01-12 10:24:12.575 E/AudioALSAPlaybackHandlerBase(  324): -getHardwareBufferInfo pcm_get_htimestamp fail, ret = -1, pcm_get_error = cannot start channel: Broken pipe
+01-12 10:24:12.598 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:24:12.744 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:24:12.744 E/WifiTrafficPoller( 1129):  packet count Tx=1115415 Rx=509486
+01-12 10:24:12.988 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:24:13.011 E/AudioHeadSetMessager(  324): open /sys/class/switch/h2w/state error fd = -1
+01-12 10:24:13.538 E/WifiMonitor( 1129): handleEvent unknown: 14  CTRL-EVENT-SCAN-STARTED 
+01-12 10:24:13.746 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:24:13.747 E/WifiTrafficPoller( 1129):  packet count Tx=1116434 Rx=509898
+01-12 10:24:14.748 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:24:14.749 E/WifiTrafficPoller( 1129):  packet count Tx=1117057 Rx=510189
+01-12 10:24:14.761 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage3500
+01-12 10:24:14.761 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage4188
+01-12 10:24:14.764 E/BatteryService( 1129): set lcd info battery 101
+01-12 10:24:14.765 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage3500
+01-12 10:24:14.765 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage4188
+01-12 10:24:14.770 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage3500
+01-12 10:24:14.770 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage4188
+01-12 10:24:14.772 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage3500
+01-12 10:24:14.772 E/BatteryService( 1129): shutdownIfBatteryVoltageLow batteryVoltage4188
+01-12 10:24:15.426 E/WifiConfigStore( 1129): updateConfiguration freq=2462 BSSID=08:10:7c:46:33:81 RSSI=-40 "ChinaNet-801"WPA_PSK
+01-12 10:24:15.749 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:24:15.750 E/WifiTrafficPoller( 1129):  packet count Tx=1117536 Rx=510404
+01-12 10:24:16.066 E/agps    (  335):  ERR: [WIFI2AGPS] sendto dest=[/data/agps_supl/wifi_2_agps] len=7952 reason=[No such file or directory]
+01-12 10:24:16.066 E/agps    (  335):  ERR: [WIFI2AGPS] external_snd_cmd safe_sendto failed
+01-12 10:24:16.175 E/WifiConfigStore( 1129): updateSavedNetworkHistory(): try "ChinaNet-801"WPA_PSK SSID="ChinaNet-801" ChinaNet-801 [WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS] ajst=0
+01-12 10:24:16.175 E/WifiConfigStore( 1129):         got known scan result 08:10:7c:46:33:81 key : "ChinaNet-801"WPA_PSK num: 1 rssi=-42 freq=2462
+01-12 10:24:16.184 E/WifiConfigStore( 1129):  writeKnownNetworkHistory() num networks:3 needWrite=false
+01-12 10:24:16.184 E/WifiStateMachine( 1129): mIsFullScanOngoing: true, mSendScanResultsBroadcast: false
+01-12 10:24:16.185 E/WifiStateMachine( 1129): mWifiOnScanCount: 172
+01-12 10:24:16.751 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:24:16.752 E/WifiTrafficPoller( 1129):  packet count Tx=1117834 Rx=510595
+01-12 10:24:17.754 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:24:17.754 E/WifiTrafficPoller( 1129):  packet count Tx=1118910 Rx=511104
+01-12 10:24:18.443 E/WifiConfigStore( 1129): updateConfiguration freq=2462 BSSID=08:10:7c:46:33:81 RSSI=-41 "ChinaNet-801"WPA_PSK
+01-12 10:24:18.731 E/MAL-Daemon(  230):  (  rds_ru_3gpp_status_ind, 1479) [RDS-E][RU][EVENT_RU_DM_3GPP_STATUS_IND] Invalid u43gpp_status:0x6
+01-12 10:24:18.755 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:24:18.756 E/WifiTrafficPoller( 1129):  packet count Tx=1120135 Rx=511666
+01-12 10:24:19.756 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:24:19.757 E/WifiTrafficPoller( 1129):  packet count Tx=1121286 Rx=512161
+01-12 10:24:20.572 E/WifiMonitor( 1129): handleEvent unknown: 14  CTRL-EVENT-SCAN-STARTED 
+01-12 10:24:20.758 E/WifiTrafficPoller( 1129): TRAFFIC_STATS_POLL true Token 11 num clients 9
+01-12 10:24:20.760 E/WifiTrafficPoller( 1129):  packet count Tx=1122409 Rx=512734
+01-12 10:24:21.452 E/WifiConfigStore( 1129): updateConfiguration freq=2462 BSSID=08:10:7c:46:33:81 RSSI=-41 "ChinaNet-801"WPA_PSK
